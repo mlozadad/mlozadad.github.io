@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡Mi primer artículo!
+title: ¡welcome!
 ---
 
 Este es mi primer artículo
@@ -16,6 +16,12 @@ bla bla bla
 adskfjasdñlfkjadslfkjs
 
 ``` java
+int x = 1;
+int y = 2;
+int z = x + y;
+```
+
+``` cshare
 int x = 1;
 int y = 2;
 int z = x + y;
