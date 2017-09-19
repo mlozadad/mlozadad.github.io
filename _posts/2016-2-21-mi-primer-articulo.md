@@ -21,7 +21,7 @@ int y = 2;
 int z = x + y;
 ```
 
-``` cshare
+``` c#
 int x = 1;
 int y = 2;
 int z = x + y;
