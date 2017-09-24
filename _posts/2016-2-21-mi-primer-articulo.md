@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡welcome!
+title: Coprac Actualización 20/09/2017
 ---
 
 Configuración Nueva funcionalidades
